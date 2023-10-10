@@ -6,7 +6,7 @@ Look at information at this link: https://www.scs.stanford.edu/23wi-cs212/refere
 
 It provides development and debugging tools.  You may refer to this page quite frequently. So, what is the assignment that you really must do? I will be detailing it below:
 
-	1. You must implement void timer_sleep (int64_t ticks) as described in
+	1. You must implement void **timer_sleep** (int64_t ticks) as described in
  		https://www.scs.stanford.edu/23wi-cs212/pintos/pintos_2.html
    	2. You will have to do a documentation like as in 
     	https://www.scs.stanford.edu/23wi-cs212/pintos/pintos_9.html
