@@ -17,4 +17,3 @@ o	Section 2: Take a video of your code working with sleep. Upload it to somewher
 o	Section 3: Who did what by each member.
 o	Section 4: Write down debugging struggle efforts.
 You will do a quick presentation on this in lab. I will discuss details later. 
-![image](https://github.com/myGitHub19/PintosAssignment1/assets/49001155/e873c2b4-190a-43f4-adc9-cedfadabfc98)
