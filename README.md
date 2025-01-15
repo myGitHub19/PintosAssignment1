@@ -22,5 +22,3 @@ Now, you are really getting into kernel hacking, try to create a GitHub repo. I 
 		> Section 2: Take a video of your code working with sleep. Upload it to somewhere where I can watch it (e.g., YouTube). Provide the URL. 
 		> Section 3: Who did what by each member.
 		> Section 4: Write down debugging struggle efforts.
-								
-You will do a quick presentation on this in lab. I will discuss details later. 
